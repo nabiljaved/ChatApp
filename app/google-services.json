@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707513753027",
+    "firebase_url": "https://chatapplication-67d2b.firebaseio.com",
+    "project_id": "chatapplication-67d2b",
+    "storage_bucket": "chatapplication-67d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707513753027:android:0b54b3b7b9f3b329fdb176",
+        "android_client_info": {
+          "package_name": "com.nabeeltech.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707513753027-nh1nqhsp7db936mhd205d7s02mvs7g76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nabeeltech.chatapp",
+            "certificate_hash": "d36607b22d5ca60074694ab400c95229b224b6a6"
+          }
+        },
+        {
+          "client_id": "707513753027-oqh4h39mqrad0hvgk71gk0tntav9an33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsl4zapv_Q-IZuHGHR1ulgPVbu56HlRac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707513753027-oqh4h39mqrad0hvgk71gk0tntav9an33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
